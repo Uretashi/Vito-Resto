@@ -1,0 +1,20 @@
+.Header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #2e2b2b;
+    color: antiquewhite;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+.logo {
+    width: 50px;
+    height: 34px;
+}
